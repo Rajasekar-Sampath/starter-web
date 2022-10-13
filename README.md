@@ -13,3 +13,7 @@ Changing the sequence
 ## Changes
 
 Changing for the working directory purposes
+
+## Copyright
+
+2022 Git.Training
