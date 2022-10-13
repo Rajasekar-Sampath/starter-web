@@ -10,6 +10,10 @@ Sample website with plenty of files for demos
 
 Changing the sequence 
 
+## HOW TO CONTRIBUTE
+
+Please fork this repository and then issue Pull Requests for review
+
 ## Changes
 
 Changing for the working directory purposes
