@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+        <All My Directors>
 
 # TECHNOLOGY COLOPHON
 
